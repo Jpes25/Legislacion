@@ -24,3 +24,17 @@
 ## FECHA DE ENTREGA:
 ### Viernes 08 de abril del 2022
 ---
+
+## Cuadro comparativo
+
+|Articulos constitucionales   |Concepto   |
+|-----------------------------|-----------|
+|Articulo 3                   |           | 
+|Articulo 6                   |           | 
+|Articulo 7                   |           | 
+|Articulo 8                   |           | 
+|Articulo 13 CADH             |           | 
+|Articulo 16                  |           | 
+|Articulo 19 PIDCP            |           | 
+|Articulo 124                 |           | 
+|Articulo 130                 |           | 
