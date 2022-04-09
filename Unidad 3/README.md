@@ -30,7 +30,7 @@
 |Articulos constitucionales   |Concepto   |
 |-----------------------------|-----------|
 |Articulo 3                   |Toda persona tiene derecho a la educación. El Estado -Federación, Estados, Ciudad de México y Municipios- impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior.<p><p> La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias, la educación superior lo será en términos de la fracción X del presente artículo.<p><p>La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.| 
-|Articulo 6                   |           | 
+|Articulo 6                   |La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada o los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.           | 
 |Articulo 7                   |           | 
 |Articulo 8                   |           | 
 |Articulo 13 CADH             |           | 
