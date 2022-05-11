@@ -12,6 +12,7 @@
 ### Espinoza Sanchez Jose Juan - 20212110
 ### Perez Yañez Juan Pablo - 20212115
 ### Sanchez Tapia Erick Daniel - 20212120
+### Jimenez Villanueva Abraham - 20212556
 ---
 ## NOMBRE DE LA MAESTRA:
 ### Sanchez Vizcarra Daniela Adriana
