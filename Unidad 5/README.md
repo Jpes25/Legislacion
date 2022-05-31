@@ -30,12 +30,7 @@
 
 | NOMBRE CONTRATO                 |Contenido  |
 |---------------------------------|-----------|
-|Contrato de Compra y Venta de Hardware | Datos de comprador y propietario actual
-Precio del inmueble
-Objetivo del contrato
-Entrega del inmueble
-Cláusulas de la compraventa
-Forma de pago
-Gastos adicionales
-Penalizaciones
-Firma de ambas partes |
+|Contrato de Compra y Venta de Hardware | Datos de comprador y propietario actual, precio del inmueble, Objeto del contrato, Entrega del inmueble, Clausulas de la compraventa, Forma de pago, Gastos adicionales, Penalizaciones, Firma de ambas partes |
+| Contrato de Arrendamiento de Hardware | Duración y rescisión, Precio, Facturacion y pago, Garantias y responsabilidades, Disposiciones generales, Firma de cliente y proveedor |
+| Contrato de Mantenimiento de Hardware  | Contratos de mantenimiento preventivo, Contratos de mantenimiento correctivo, Contratos de mantenimiento preventivo-correctivo, Tienen garantía, Hay un compromiso previo |
+| Contrato de Leasing de Hardware | Se basa en la necesidad del empresario de obtener un crédito, El contrato tiene elementos de compraventa y de arrendamiento, Los bancos se encargan de comprar estas en cantidad, marca y especificaciones dadas por el empresario, Compromete al empresario a pagar el crédito al aumentar los impuestos, las primas de seguros y las utilidades del banco |
